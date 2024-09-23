@@ -1,4 +1,4 @@
-# Amazon-ML-Challenge
+# Amazon ML CHallenge 2024
 
 ## Overview
 This project was developed as a solution for the Amazon ML Challenge 2024, which aimed to extract measurement units (e.g., kg, cm) from product images using Optical Character Recognition (OCR) with the help of the PyTesseract library. The model was developed by a team consisting of Nikhil, Ashish, Ayush, and myself. The extraction process involves downloading images, processing them, and applying OCR to retrieve the text data.
